@@ -1,0 +1,88 @@
+.nav-menu .nav-item{
+display: inline;
+padding: 10px;
+font-size: 18px;
+font-family: "Comic Sans MS";
+top:5px;
+}
+.nav-link:link{
+text-decoration: none;
+color:black;
+}
+.nav-link:visited{
+text-decoration: none;
+color:black;
+}
+.nav-link:hover {
+text-decoration:none;
+color:#FFA600;
+}
+.nav-link:active {
+text-decoration:none;
+color:#4A0080;
+}
+
+#quotation{
+padding-top: 250px;
+padding-left: 150px;
+font-size: 70px;
+font-family: "Comic Sans MS";
+text-shadow: 3px 3px black;
+color: white;
+}
+
+.contact{
+padding: 10px;
+text-align: left;
+}
+.icon{
+width: 50px;
+height: 50px;
+}
+
+.about1
+{
+padding-left: 600px;
+padding-top:73px;
+width: 500px;
+font-size: 	23px;
+}
+
+.word{
+font-size: 40px;
+padding-left: 250px;
+padding-right: 550px;
+margin:0;
+font-family: "Comic Sans MS";
+}
+.words1{
+color:white;
+margin: 0px auto;
+}
+.words2{
+color:white;
+text-align: center;
+margin-top: -50px;
+}
+
+.target-words{
+width:700px;
+margin-left: 150px;
+margin-top: 50px;
+padding-left: 50px;
+font-size: 35px;
+color: #272727;
+border: 3px solid #272727;
+border-radius: 10px;
+}
+
+.words3{
+text-align: center;
+padding-top: 50px;
+margin: 0px auto;
+text-shadow: 3px 3px white;
+}
+
+.info p{
+color: #fff;
+}

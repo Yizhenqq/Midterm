@@ -86,3 +86,10 @@ text-shadow: 3px 3px white;
 .info p{
 color: #fff;
 }
+
+.footer-words{
+color: white;
+text-align: center;
+margin: 0px auto;
+padding-top: 15px;
+}
